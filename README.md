@@ -16,13 +16,6 @@ The **Enterprise Age Calculator** is a modern React + TypeScript application des
 
 ---
 
-## Demo
-
-Check out the live demo of the project here: [![Netlify Status](https://api.netlify.com/api/v1/badges/a88df56f-19be-4fb3-9bd2-ae67bd40d576/deploy-status)](https://app.netlify.com/sites/friendly-monstera-acd678/deploys) 
-
-
----
-
 ## Getting Started
 
 Follow these steps to set up the project locally:
